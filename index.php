@@ -27,7 +27,6 @@
             <ul id="navMenu">
                 <li class="nav-item"><a href="Unidades.html">Unidades</a></li>
                 <li class="nav-item"><a href="Produtos.html">Produtos</a></li>
-                <li class="nav-item"><a href="Carrinho.html">Carrinho</a></li>
                 <li class="nav-item"><a href="logout.php">Sair</a></li>
             </ul>
         </div>
